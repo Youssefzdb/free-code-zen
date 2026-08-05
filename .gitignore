@@ -3,4 +3,3 @@ cli-dev
 cli
 dist/
 *.log
-bun.lock
