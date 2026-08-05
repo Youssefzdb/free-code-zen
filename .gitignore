@@ -1,0 +1,6 @@
+node_modules/
+cli-dev
+cli
+dist/
+*.log
+bun.lock
